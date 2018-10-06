@@ -1,5 +1,8 @@
 # take_home
-Take home sorting test exercise.
+Cambia home sorting test exercise.
+Michael Sloan
+
+string_sort.feature contains the Gherkin test descriptions
 
 string_sort.py is a Python3 script
 
