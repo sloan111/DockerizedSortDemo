@@ -1,11 +1,19 @@
-# take_home
-Cambia home sorting test exercise.
+# Take Home Exercise
+
+
+----
+##Cambia home sorting test exercise.
+
+----
 Michael Sloan
 
-string_sort.feature contains the Gherkin test descriptions
+* Answers to written questions can be found in Cambia_Questions.docx
 
-string_sort.py is a Python3 script
+* string_sort.feature contains the Gherkin test descriptions
 
-Following docker commands were used to build the docker environment locally:
+* The string_sort.py script is written Python 3
+
+The following docker commands were used to build the docker environment locally:
 >  docker build -t python-barcode .
+----
 >  docker run python-barcode
